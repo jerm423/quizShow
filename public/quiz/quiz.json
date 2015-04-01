@@ -1,0 +1,60 @@
+{
+"nombre" : "quiz Lenguajes #8761",
+"preguntas" :
+        [
+                {
+                        "enunciado" : "¿Cada cuántos años se da un año bisiesto?",
+                        "opciones" : ["6", "7", "4", "3"],
+                        "correctas" : ["4"],
+                        "pistas" : ["Es un número par."]
+                },
+                {
+                        "enunciado" : "¿Quién sabía que no sabía nada?",
+                        "opciones" : ["Sócrates","Platón","Aristóteles","Pitágoras"],
+                        "correctas" : ["Sócrates"],
+                        "pistas" : ["Es un antiguo griego."]
+                },
+                {
+                        "enunciado" : "¿Qué son los ewok?",
+                        "opciones" : ["Un libro en formato digital","Un ser de La guerra de las Galaxias", "El jefe de una nación india" ],
+                        "correctas" : ["Un ser de La guerra de las Galaxias"],
+                        "pistas" : ["Es un personaje."]
+                },
+                {
+                        "enunciado" : "¿Con qué se fabricaban los pergaminos?",
+                        "opciones" : ["Con piel de animales","Con tiras de madera","Con hojas de arbustos","Papel reciclado"],
+                        "correctas" : ["Con piel de animales"],
+                        "pistas" : ["Tiene que ver con carne."]
+                },
+                {
+                        "enunciado" : "¿Cuáles fueron los años de inicio de la Primera y Segunda Guerra Mundial",
+                        "opciones" : ["1913","1947","1914","2006","1939"],
+                        "correctas" : ["1914","1939"],
+                        "pistas" : ["Uno termina en un número par y otro no."]
+                },
+                {
+                        "enunciado" : "¿Qué país no tiene al euro como moneda?",
+                        "opciones" : ["Portugal","Suiza","Francia","Panamá"],
+                        "correctas" : ["Panamá","Suiza"],
+                        "pistas" : ["Uno de ellos termina en a."]
+                },
+                {
+                        "enunciado" : "¿Qué tipo de grasa hace tan saludable el aceite de oliva?",
+                        "opciones" : ["Saturadas","Monoinsaturadas","Light","Trans"],
+                        "correctas" : ["Monoinsaturadas"],
+                        "pistas" : ["Termina en s."]
+                },
+                {
+                        "enunciado" : "Un uno seguido de cien ceros es también...",
+                        "opciones" : ["El nombre de un buscador de internet","Una secuencia binaria de encriptación","El nombre de un sistema solar"],
+                        "correctas" : ["El nombre de un buscador de internet"],
+                        "pistas" : ["Lo usamos en la vida diaria."]
+                },
+                {
+                        "enunciado" : "¿Qué era el Concorde?",
+                        "opciones" : ["Un tren bala","Un transbordador espacial","Un avión supersónico"],
+                        "correctas" : ["Un avión supersónico"],
+                        "pistas" : ["Viajaba a más de la velocidad del sonido."]
+                }  
+        ]
+}
